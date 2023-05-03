@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="UniversityContingent:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/UniversityContingent_jar</output-path>
+    <root id="archive" name="UniversityContingent.jar">
+      <element id="module-output" name="UniversityContingent" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/jetbrains/annotations/24.0.1/annotations-24.0.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
